@@ -32,11 +32,10 @@ My name is Fahad Imaduddin. I am a Fullstack Engineer. I am from Pakistan, lives
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/fahadimaduddin/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahadimaduddin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/fahadimaduddin/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadimaduddin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16017176" target="blank"><img align="center" src="https://raw.githubusercontent.com/fahadimaduddin/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16017176" height="30" width="40" /></a>
-<a href="https://instagram.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/fahadimaduddin/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadimaduddin" height="30" width="40" /></a>
+<a href="https://twitter.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16017176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16017176" height="30" width="40" /></a>
+<a href="https://instagram.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 
 
-
-[1.1]: https://i.imgur.com/Vahbdkj.png (linkedin icon)
