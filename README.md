@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](https://github.com/FahadImaduddin/fahadimaduddin/banner.png)
 
 # Hello folks!👋
 
