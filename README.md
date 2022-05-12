@@ -34,7 +34,7 @@ My name is Fahad Imaduddin. I am a Fullstack Engineer. I am from Pakistan, lives
 <a href="https://linkedin.com/in/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadimaduddin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16017176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16017176" height="30" width="40" /></a>
 <a href="https://instagram.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadimaduddin" height="30" width="40" /></a>
-<a href="https://trailblazer.me/id/fahadimaduddin" target="blank"><img align="center" src="https://i.ibb.co/dfN2s9x/Trailblazer.png" alt="Trailblazer" height="30" width="40"></a>
+<!-- <a href="https://trailblazer.me/id/fahadimaduddin" target="blank"><img align="center" src="https://i.ibb.co/dfN2s9x/Trailblazer.png" alt="Trailblazer" height="30" width="40"></a> -->
 </p>
 
 
