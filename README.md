@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Fahad Imaduddin. I am a Fullstack Engineer. I am from Pakistan, lives in Karachi Pakistan and working at Systems Limited.
+I am Fahad Imaduddin. I work as a Full-Stack Engineer. I live in Karachi, Pakistan, and work at Systems Limited.
+
 
 
 ## 🔧 Langueages & Tools
