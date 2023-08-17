@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **fahadimaduddin@outlook.com**
 
-- ⚡ Talent **I am a part time singer**
+- ⚡ Talent **I am a part time gamer**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
