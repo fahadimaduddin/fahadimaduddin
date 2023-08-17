@@ -35,13 +35,11 @@ Here are some ideas to get you started:
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 </p>
 
-## 🔗 &nbsp;**Connect with me**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahadimaduddin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadimaduddin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16017176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16017176" height="30" width="40" /></a>
-<a href="https://instagram.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadimaduddin" height="30" width="40" /></a>
-<!-- <a href="https://trailblazer.me/id/fahadimaduddin" target="blank"><img align="center" src="https://i.ibb.co/dfN2s9x/Trailblazer.png" alt="Trailblazer" height="30" width="40"></a> -->
+<a href="https://twitter.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehahafeez00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-hafeez" height="30" width="40" /></a>
+<a href="https://instagram.com/fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha.hafeez._" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fahadimaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenomics" height="30" width="40" /></a>
 </p>
-
 
