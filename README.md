@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Next ,TypeScript ,C#**
 
-- 📫 How to reach me **bahauddin.fahad@systemsltd.com**
+- 📫 How to reach me **fahadimaduddin@outlook.com**
 
 - ⚡ Talent **I am a part time singer**
 
