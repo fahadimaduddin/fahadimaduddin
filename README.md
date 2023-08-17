@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadimaduddin&label=Profile%20views&color=0e75b6&style=flat" alt="neha-hafeez" /> </p>
 
+- 🌱 I’m currently learning **React, Next ,TypeScript ,C#**
+
+- 📫 How to reach me **bahauddin.fahad@systemsltd.com**
+
+- ⚡ Talent **I am a part time singer**
 
 ## 🔧 Langueages & Tools
 <p align='left'>
