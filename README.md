@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 ![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
 
-# Hello folks!👋
-
-👋 Hi there! I'm Fahad Imaduddin, a Full-Stack Engineer based in Karachi, Pakistan 🌆 | @ Systems Limited 💼
+<h1 align="center">Bonjour Folks , Glad To Have You Here 👋</h1>
+<h3 align="center">I'm an Enthusiastic Student available for contributing to organizational success while developing new skills and gaining industrial experience. Positively impact operations with top-notch communication and problem solving skills.</h3>
 
 
 
