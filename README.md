@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehahafeez00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-hafeez" height="30" width="40" /></a>
-<a href="https://instagram.com/fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha.hafeez._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenomics" height="30" width="40" /></a>
+<a href="https://twitter.com/fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahadimaduddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahadimaduddin" height="30" width="40" /></a>
+<a href="https://instagram.com/fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadimaduddin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahadimaduddin" height="30" width="40" /></a>
 </p>
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadimaduddin&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="fahadimaduddin" /></p>
