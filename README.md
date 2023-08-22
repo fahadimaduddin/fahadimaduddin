@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Bonjour Folks , Glad To Have You Here 👋</h1>
 <h3 align="center">I'm an Enthusiastic Student available for contributing to organizational success while developing new skills and gaining industrial experience. Positively impact operations with top-notch communication and problem solving skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadimaduddin&label=Profile%20views&color=0e75b6&style=flat" alt="fahadimaduddin" /> </p>
+<p align="left"> Working on building a custom version for myself. Stay tuned! <img src="https://komarev.com/ghpvc/?username=fahadimaduddin&label=Profile%20views&color=0e75b6&style=flat" alt="fahadimaduddin" /> </p>
 
 - 🌱 I’m currently learning **React, Next, TypeScript, C#**
 
