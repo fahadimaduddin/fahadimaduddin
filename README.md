@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
 
-<h1 style="color:black;align="center">Bonjour Folks , Glad To Have You Here 👋</h1>
-<h3 style="color:black;align="center">I'm an Enthusiastic Student available for contributing to organizational success while developing new skills and gaining industrial experience. Positively impact operations with top-notch communication and problem solving skills.</h3>
+<h1 style="color:black;text-align:center;>Bonjour Folks , Glad To Have You Here 👋</h1>
+<h3 style="color:black;text-align:center;>I'm an Enthusiastic Student available for contributing to organizational success while developing new skills and gaining industrial experience. Positively impact operations with top-notch communication and problem solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadimaduddin&label=Profile%20views&color=0e75b6&style=flat" alt="fahadimaduddin" /> </p>
 
