@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/@fahadimaduddin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahadimaduddin" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadimaduddin&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="fahadimaduddin" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadimaduddin&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="fahadimaduddin" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadimaduddin&theme=highcontrast&hide_border=true&locale=en" alt="fahadimaduddin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadimaduddin&show_icons=true&theme=white&hide_border=true&locale=en&layout=compact" alt="fahadimaduddin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadimaduddin&show_icons=true&theme=white&hide_border=true&locale=en" alt="fahadimaduddin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadimaduddin&theme=white&hide_border=true&locale=en" alt="fahadimaduddin" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadimaduddin&show_icons=true&hide_border=false&locale=en&layout=compact" alt="fahadimaduddin" /></p>
