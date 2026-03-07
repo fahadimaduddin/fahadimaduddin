@@ -22,8 +22,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadimaduddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="38%" />
-
 ### `> whoami`
 
 ```
