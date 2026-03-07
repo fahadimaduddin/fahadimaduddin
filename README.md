@@ -75,13 +75,13 @@ namespace Fahad.Profile
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadimaduddin&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadimaduddin&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadimaduddin&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadimaduddin&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadimaduddin&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
+  <img src="https://streak-stats.demolab.com?user=fahadimaduddin&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ namespace Fahad.Profile
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahadimaduddin&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahadimaduddin&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ namespace Fahad.Profile
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadimaduddin&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadimaduddin&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
