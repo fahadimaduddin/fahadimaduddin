@@ -77,14 +77,6 @@ namespace Fahad.Profile
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadimaduddin&show_icons=true&theme=default&hide_border=true&bg_color=f9f8f6&title_color=0ea5e9&icon_color=7c3aed&text_color=1a1a2e&border_radius=12" alt="Fahad's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadimaduddin&layout=compact&theme=default&hide_border=true&bg_color=f9f8f6&title_color=0ea5e9&text_color=1a1a2e&border_radius=12" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=fahadimaduddin&theme=default&hide_border=true&background=f9f8f6&ring=0ea5e9&fire=7c3aed&currStreakLabel=0ea5e9&sideLabels=1a1a2e&dates=8888aa&border_radius=12)](https://git.io/streak-stats)
 
 </div>
